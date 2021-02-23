@@ -1,3 +1,28 @@
+# Hi there, I'm Danil 👋
+ 
+#### :heart: I'm passionate about:
+
+- React / React Native
+- Laravel, CI
+- Angular
+- Vue
+- All Apis(payment api, google api ....)
+
+<!--
+#### :ok_hand: My projects include:
+
+- Good documentation
+- CI/CD
+-->
+
+#### :computer: Programming languages:
+
+- Typescript
+- Javascript
+- SQL
+- Python
+- PHP
+
 
 <div align="center">
    <h1>Hello!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
