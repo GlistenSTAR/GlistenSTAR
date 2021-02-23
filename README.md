@@ -23,14 +23,13 @@
 
 
 
-<div align="center" style="font-size:28px; color:blue">
-   About Me 
-</div><br/><br/>
+#
+<div align="center">
+   <h1 color="red">ABOUT ME DETAILS...</h1>
+</div>
 
 - 👀 Open source contributor
-- 👾 JAVASCRIPT FRAMEWORK MASTERED AND PHP FULL STACK DEVELOPER
 - 🤝 Always open for cooperation
-- ❤️ Mobile application experter
 - ❤️ Particular React is my best favourite framework. And I can do anything on React Framework.
 
 <br>
