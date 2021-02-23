@@ -1,7 +1,7 @@
 # 
 <div align="center">
    <h1>Hello! I am Danil Shelikhov. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-   <h2>I Just started work</h2>
+   <!-- <h2>I just started work.</h2> -->
 </div>
  
 #### :heart: I'm passionate about:
