@@ -22,12 +22,11 @@
 - PHP
 
 
-#
+#<br/>
 <div align="center">
    About Me 
 </div><br/><br/>
 
-#### :smile_face
 - 👀 Open source contributor
 - 👾 JAVASCRIPT FRAMEWORK MASTERED AND PHP FULL STACK DEVELOPER
 - 🤝 Always open for cooperation
