@@ -51,6 +51,7 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/glistenstar?style=flat-square&color=black&logo=github">
   </a>
+   
    <img src="https://github-profile-trophy.vercel.app/?username=GlistenSTAR&theme=flat&no-frame=true&margin-w=30&margin-h=20" />
 </div>
 
