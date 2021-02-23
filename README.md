@@ -6,10 +6,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 - 👀 Open source contributor
-- 👾 Kubernetes, .NET Core and Next.js
-- 👑 HotChocolate, MassTransit and Quartz
+- 👾 JAVASCRIPT FRAMEWORK MASTERED AND PHP FULL STACK DEVELOPER
 - 🤝 Always open for cooperation
-- ❤️ Cats 😸, whales 🐳 and guitars 🎸
+- ❤️ Mobile application experter
+- ❤️ Particular React is my best favourite framework. And I can do anything on React Framework.
 
 <br>
 <!---
