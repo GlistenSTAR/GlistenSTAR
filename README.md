@@ -22,8 +22,8 @@
 - PHP
 
 
-#<br/>
-<div align="center">
+
+<div align="center" style="font-size:28px; color:blue">
    About Me 
 </div><br/><br/>
 
