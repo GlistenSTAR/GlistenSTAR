@@ -3,7 +3,7 @@
    <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sergeyshaykhullin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 - 👀 Open source contributor
 - 👾 Kubernetes, .NET Core and Next.js
