@@ -11,12 +11,7 @@
 - Vue
 - All Apis(payment api, google api ....)
 
-<!--
-#### :ok_hand: My projects include:
-
-- Good documentation
-- CI/CD
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 #### :computer: Programming languages:
 
