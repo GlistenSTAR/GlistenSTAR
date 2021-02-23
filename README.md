@@ -29,8 +29,8 @@
 
 #
 <div align="center">
-   About Me ####:smile
-</div><br>
+   About Me 
+</div><br><br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
