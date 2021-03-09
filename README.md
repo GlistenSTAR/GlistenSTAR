@@ -54,3 +54,5 @@
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
 ![](https://hit.yhype.me/github/profile?user_id=75786284)
+
+[![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
