@@ -32,7 +32,7 @@
 - 👀 Open source contributor
 - 🤝 Always open for cooperation
 - ❤️ Particular React is my best favourite framework. And I can do anything on React Framework.
-<br>
+
 [![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
 <br>
 
