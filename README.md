@@ -36,7 +36,7 @@
 - 🤝 Always open for cooperation
 
 <div align="center">
-[![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-squarel&logo=outlooklogoColor=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-squarel&logo=outlooklogo&Color=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
 [![Outlook main Badge](https://img.shields.io/badge/-danilshelikhov@outlook.com-c14438?style=flat-square&logo=outlook&logoColor=white&link=mailto:danilshelikhov@outlook.com)](mailto:danilshelikhov@outlook.com)
 </div>
 <br>
