@@ -16,11 +16,13 @@
 
 #### :computer: Programming languages:
 
-- Typescript
 - Javascript
-- SQL
-- Python
 - PHP
+- Python
+- Typescript
+- SQL
+
+
 
 
 
