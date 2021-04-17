@@ -37,6 +37,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
+[![Outlook main Badge](https://img.shields.io/badge/-danilshelikhov@out.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:danilshelikhov@outlook.com)](mailto:danilshelikhov@outlook.com)
 <br>
 
 <div align="center">
