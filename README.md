@@ -31,7 +31,7 @@
    <h1 color="red">ABOUT ME DETAILS...</h1>
 </div>
 
-- ❤️ Particular React is my best ❤️ framework. And I have rich experenice on React Framework.
+- ❤️ Particular React is my ❤️ framework. And I have rich experenice on React Framework.
 - 👀 Open source contributor
 - 🤝 Always open for cooperation
 
