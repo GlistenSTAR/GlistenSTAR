@@ -12,7 +12,7 @@
 - Vue
 - All Apis(payment api, google api ....)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true" />
+
 
 #### :computer: Programming languages:
 
@@ -30,6 +30,10 @@
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlistenSTAR&layout=compact&theme=vue" style="min-width:800px"/>
+</p>
 
 #
 <div align="center">
@@ -42,7 +46,10 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-squarel&logo=outlooklogo&Color=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
 [![Outlook main Badge](https://img.shields.io/badge/-danilshelikhov@outlook.com-c14438?style=flat-square&logo=outlook&logoColor=white&link=mailto:danilshelikhov@outlook.com)](mailto:danilshelikhov@outlook.com)
+<img align="right" src="https://komarev.com/ghpvc/?username=GListenSTAR"/>
+
 <br> 
+
 
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
@@ -63,5 +70,6 @@
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
 ![](https://hit.yhype.me/github/profile?user_id=75786284)
+
 
 
