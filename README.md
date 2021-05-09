@@ -10,9 +10,7 @@ I am a web developer. I live in kjev on Ukraine. As a full stack developer, my m
 As I said framwork, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. I have a team. I am charge of P.M.
 My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It's start of competition.
 
-<p align="center">
-<h1>Run! Danil! Run!!!!<h1><br/>
-</p>
+<!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
 
 #### :computer: Programming languages:
 
