@@ -32,10 +32,9 @@ My team, **NK** consist several countries's and so we use English for our commun
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlistenSTAR&layout=compact&theme=vue" style="min-width:800px"/>
 </p>
+<h1 style="font-size:42px" align="center">Contact me</h1>
 
-#
-
-[![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-squarel&logo=gmaillogo&Color=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
 [![Outlook main Badge](https://img.shields.io/badge/-webstar0513@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:webstar0513@gmail.com)](mailto:webstar0513@gmail.com)
 <img align="right" src="https://komarev.com/ghpvc/?username=GListenSTAR"/>
 
