@@ -37,9 +37,10 @@ My team, **NK** consist several countries's and so we use English for our commun
 <h1 style="font-size:42px" align="center">Contact me</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
-[![Outlook main Badge](https://img.shields.io/badge/-webstar0513@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:webstar0513@gmail.com)](mailto:webstar0513@gmail.com)
 [![Skype Badge](https://img.shields.io/badge/-live:.cid.9059cdb6c4ef65ea-c14438?style=flat-square&logo=skype&logoColor=white&link=mailto:live:.cid.9059cdb6c4ef65ea)](mailto:live:.cid.9059cdb6c4ef65ea)
-<img align="right" src="https://komarev.com/ghpvc/?username=GListenSTAR"/>
+[![Telegram Badge](https://img.shields.io/badge/-@Lionheart0513-c14438?style=flat-square&logo=telegram&logoColor=white&link=mailto:@Lionheart0513)](mailto:@Lionheart0513)
+[![Atom Badge](https://img.shields.io/badge/-+17742769515-c14438?style=flat-square&logo=atom&logoColor=white&link=mailto:+17742769515)](mailto:+17742769515)
+<img align="right" src="https://komarev.com/ghpvc/?username=GlistenSTAR"/>
 
 <br> 
 
