@@ -1,14 +1,16 @@
 # 
 <div align="center">
-   <h1>Hello! I am Full Stack Developer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hello! I am Professional Full Stack Developer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
    <!-- <h2>I just started work.</h2> -->
 </div>
  
 #### :heart: I'm passionate about:
 
-I am a web developer. As a full stack developer, my main programming language is Javascript, PHP, Python. I also have good experience with Angular, Vue, ❤️React❤️. Particular React is my ❤️ framework. And I have rich experenice on React Framework(MERN).
-As I said framwork, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. I have a team. I am charge of P.M.
-My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It's start of competition.
+I am a web developer. I have 8+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with Angular, Vue, ❤️React❤️. Particularly React is my ❤️ framework and also I have rich experenice on React Framework(MERN).
+Including framwork that said above, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. 
+
+I have a team. I am charge of P.M.
+My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition.
 
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
 
