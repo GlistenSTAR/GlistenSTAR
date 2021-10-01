@@ -38,6 +38,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 
 [![Gmail Badge](https://img.shields.io/badge/-glistenstar00@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:glistenstar00@gmail.com)](mailto:glistenstar00@gmail.com)
 [![Outlook main Badge](https://img.shields.io/badge/-webstar0513@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:webstar0513@gmail.com)](mailto:webstar0513@gmail.com)
+[![Skype Badge](https://img.shields.io/badge/-live:.cid.9059cdb6c4ef65ea-c14438?style=flat-square&logo=skype&logoColor=white&link=mailto:live:.cid.9059cdb6c4ef65ea)](mailto:live:.cid.9059cdb6c4ef65ea)
 <img align="right" src="https://komarev.com/ghpvc/?username=GListenSTAR"/>
 
 <br> 
