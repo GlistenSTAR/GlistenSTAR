@@ -6,7 +6,7 @@
  
 #### :heart: I'm passionate about:
 
-I am a web developer. As a full stack developer, my main programming language is Javascript, PHP, Python. I also have good experience with Angular, Vue, ❤️React❤️. Particular React is my ❤️ framework. And I have rich experenice on React Framework.
+I am a web developer. As a full stack developer, my main programming language is Javascript, PHP, Python. I also have good experience with Angular, Vue, ❤️React❤️. Particular React is my ❤️ framework. And I have rich experenice on React Framework(MERN).
 As I said framwork, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. I have a team. I am charge of P.M.
 My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It's start of competition.
 
