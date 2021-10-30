@@ -32,7 +32,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 </p>
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&count_private=true&show_icons=true&hide_title=true"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlistenSTAR&layout=compact&theme=vue" style="min-width:800px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlistenSTAR&layout=compact&theme=vue" style="min-width:700px"/>
 </p>
 <h1 style="font-size:42px" align="center">Contact me</h1>
 
