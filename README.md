@@ -46,24 +46,14 @@ My team, **NK** consist several countries's and so we use English for our commun
 
 
 <div align="center">
-  <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/glistenstar/glistenstar?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/glistenstar?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/glistenstar?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/glistenstar?style=flat-square&color=black&logo=github">
-  </a>
-   -->
    <img src="https://github-profile-trophy.vercel.app/?username=GlistenSTAR&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div>
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
 ![](https://hit.yhype.me/github/profile?user_id=75786284)
 
+<br>
+
+![](https://hit.yhype.me/github/profile?user_id=75786284)
 
 
