@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 */18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
