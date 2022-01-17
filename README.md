@@ -36,10 +36,10 @@ My team, **NK** consist several countries's and so we use English for our commun
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-(Most used languages by number of commits)
+<!-- (Most used languages by number of commits)
 <p align="center">
 	<a href="https://profile.codersrank.io/user/GlistenSTAR#Tech%15Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GlistenSTAR&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,HTML,JSON,Java,JavaScript,PHP,Python,SCSS,SQL,Angular,Blade,React,TypeScript,Vue&show-other-skills=true&bg=white"></a>
-</p>
+</p> -->
 
 <p align="center" style="float:left">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
