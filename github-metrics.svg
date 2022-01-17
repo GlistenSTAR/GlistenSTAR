@@ -491,7 +491,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 224 edited files from 7 commits over last 1 day</small>
+                <small>estimation from 227 edited files from 7 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2946,7 +2946,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>somekindofwallflower/test</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3770,7 +3770,7 @@ https://www.treccani.it/vocabolario/ricerca/gnocchi/</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2022, 18:56:59 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 17 Jan 2022, 19:03:29 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
