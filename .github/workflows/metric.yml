@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
 
           # Options
-          user: formidablae
+          user: GlistenSTAR
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
