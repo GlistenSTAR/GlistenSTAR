@@ -75,7 +75,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 
 <br>
 
-# More in detail
+<!-- # More in detail
 <p align="center">
 	<img width="625em" src="https://github.com/GlistenSTAR/GlistenSTAR/blob/main/github-metrics.svg" />
-</p>
+</p> -->
