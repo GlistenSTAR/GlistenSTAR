@@ -15,6 +15,11 @@ My team, **NK** consist several countries's and so we use English for our commun
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
 
 #### :computer: Programming languages:
+<p>
+	<img
+		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
+	/>
+</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -43,9 +48,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 <p align="center">
    <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlistenSTAR&layout=compact&custom_title=Most used languages by GlistenSTAR&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 	<img width="500em"/>
-	<img
-  		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
-	/>
+	
 
 </p>
 
