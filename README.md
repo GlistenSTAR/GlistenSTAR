@@ -36,15 +36,15 @@ My team, **NK** consist several countries's and so we use English for our commun
 	<a href="https://profile.codersrank.io/user/GlistenSTAR#Tech%15Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GlistenSTAR&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,HTML,JSON,Java,JavaScript,PHP,Python,SCSS,SQL,Angular,Blade,React,TypeScript,Vue&show-other-skills=true&bg=white"></a>
 </p>
 
-<p align="center">
+<p align="center" style="float:left">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 <p align="center">
    <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlistenSTAR&layout=compact&custom_title=Most used languages by GlistenSTAR&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-	<img width="550em"/>
+	<img width="500em"/>
 	<img
-  		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="550em"
+  		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
 	/>
 
 </p>
