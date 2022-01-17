@@ -43,6 +43,10 @@ My team, **NK** consist several countries's and so we use English for our commun
 <p align="center">
    <img width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlistenSTAR&layout=compact&custom_title=Most used languages by GlistenSTAR&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 	<img width="550em"/>
+	<img
+  		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="550em"
+	/>
+
 </p>
 
 
