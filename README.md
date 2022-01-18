@@ -45,7 +45,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlistenSTAR&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
 </div>
 
 <p align="center">
