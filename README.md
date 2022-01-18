@@ -53,7 +53,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 	<img width="500em"/>
 </p>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-green.svg)
 
 <h1 style="font-size:42px" align="center">Contact me</h1>
 
