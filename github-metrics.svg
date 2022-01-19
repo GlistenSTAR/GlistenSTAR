@@ -38,16 +38,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -56,7 +56,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 91 repositories
+                            Contributed to 92 repositories
                         </div>
                     </section>
                 </div>
@@ -74,7 +74,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1781 Commits
+                            1799 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -120,7 +120,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 16 users
+                            Following 14 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -132,13 +132,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 102 repositories
+                            Starred 103 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 66 repositories
+                            Watching 67 repositories
                         </div>
                     </section>
                 </div>
@@ -150,7 +150,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            84 Repositories
+                            85 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -176,13 +176,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    1.81 GB used
+                                    1.82 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.63m added, 2.58m removed
+                                    4.39m added, 510k removed
                                 </div>
                             </section>
                             <section>
@@ -196,7 +196,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    130 Stargazers
+                                    131 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -208,13 +208,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    69 Watchers
+                                    70 Watchers
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    299 views in last two weeks
+                                    335 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -284,13 +284,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="130.76923076923077" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="130.76923076923077" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="130.76923076923077" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="130.76923076923077" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="130.76923076923077" y="0" width="16.923076923076923" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="147.6923076923077" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="147.6923076923077" y="0" width="72.3076923076923" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="131.38888888888889" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="131.38888888888889" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="131.38888888888889" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="131.38888888888889" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="131.38888888888889" y="0" width="16.805555555555557" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="148.19444444444446" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="148.19444444444446" y="0" width="71.80555555555556" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -298,7 +298,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">85 <small>open</small></span>
+                                <span class="no-wrap">86 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -383,14 +383,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.53711296651733" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="163.53711296651733" y="0" width="131.68606161082045" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="295.2231745773378" y="0" width="67.15952511550731" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="362.38269969284505" y="0" width="34.326053696491684" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="396.7087533893368" y="0" width="24.630471569197987" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="421.33922495853477" y="0" width="17.689083420423742" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="439.0283083789585" y="0" width="13.109981376147944" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.1382897551065" y="0" width="7.861710244893576" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.06102080215757" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="164.06102080215757" y="0" width="131.4454960933786" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="295.5065168955362" y="0" width="67.04962281447523" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="362.55613971001145" y="0" width="34.26823481116106" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="396.82437452117244" y="0" width="24.585476358122484" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="421.409850879295" y="0" width="17.656768812073757" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="439.0666196913687" y="0" width="13.086031920793083" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="452.1526516121618" y="0" width="7.8473483878381955" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -402,8 +402,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>20.6 MB</div>
-                                <div>35.55%</div>
+                                <div>20.7 MB</div>
+                                <div>35.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -415,7 +415,7 @@
                             </div>
                             <small>
                                 <div>8.49 MB</div>
-                                <div>14.6%</div>
+                                <div>14.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -427,7 +427,7 @@
                             </div>
                             <small>
                                 <div>3.11 MB</div>
-                                <div>5.35%</div>
+                                <div>5.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -439,7 +439,7 @@
                             </div>
                             <small>
                                 <div>1.66 MB</div>
-                                <div>2.85%</div>
+                                <div>2.84%</div>
                             </small>
                         </div>
                     </section>
@@ -453,7 +453,7 @@
                             </div>
                             <small>
                                 <div>16.6 MB</div>
-                                <div>28.63%</div>
+                                <div>28.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -465,7 +465,7 @@
                             </div>
                             <small>
                                 <div>4.34 MB</div>
-                                <div>7.46%</div>
+                                <div>7.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -477,7 +477,7 @@
                             </div>
                             <small>
                                 <div>2.24 MB</div>
-                                <div>3.85%</div>
+                                <div>3.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -497,15 +497,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 24 edited files from 56 commits over last 7 days</small>
+                <small>estimation from 27 edited files from 69 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.76348547717845" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="396.76348547717845" y="0" width="32.09247184350919" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="428.8559573206876" y="0" width="31.144042679312392" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.83701855317577" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="373.83701855317577" y="0" width="29.472054712229383" height="8" fill="#FFCFAB"/>
+                    <rect mask="url(#languages-bar)" x="403.3090732654051" y="0" width="28.770592176705712" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="432.0796654421108" y="0" width="27.92033455788914" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -517,8 +518,34 @@
                                 Python
                             </div>
                             <small>
-                                <div>33.4 kB</div>
-                                <div>86.25%</div>
+                                <div>35.1 kB</div>
+                                <div>81.27%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JSON
+                            </div>
+                            <small>
+                                <div>2.71 kB</div>
+                                <div>6.25%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#FFCFAB" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                GCC Machine Description
+                            </div>
+                            <small>
+                                <div>2.77 kB</div>
+                                <div>6.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -530,21 +557,7 @@
                             </div>
                             <small>
                                 <div>2.63 kB</div>
-                                <div>6.77%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JSON
-                            </div>
-                            <small>
-                                <div>2.71 kB</div>
-                                <div>6.98%</div>
+                                <div>6.07%</div>
                             </small>
                         </div>
                     </section>
@@ -620,13 +633,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 60 commits)</small>
+                    <small class="h-details">(computed from last 70 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 46.6 characters per line of code written</li>
-                        <li>Mostly pushes code around 09:00</li>
+                        <li>Has approximately 47.2 characters per line of code written</li>
+                        <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
@@ -640,8 +653,8 @@
                         00
                     </div>
                     <div class="entry">
-                        <span class="value">3</span>
-                        <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">1</span>
+                        <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         01
                     </div>
                     <div class="entry">
@@ -671,22 +684,22 @@
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         07
                     </div>
                     <div class="entry">
-                        <span class="value">3</span>
-                        <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">2</span>
+                        <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         08
                     </div>
                     <div class="entry">
                         <span class="value">10</span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         09
                     </div>
                     <div class="entry">
-                        <span class="value">2</span>
-                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">4</span>
+                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         10
                     </div>
                     <div class="entry">
@@ -701,52 +714,52 @@
                     </div>
                     <div class="entry">
                         <span class="value">2</span>
-                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         13
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         14
                     </div>
                     <div class="entry">
                         <span class="value">5</span>
-                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         15
                     </div>
                     <div class="entry">
-                        <span class="value">4</span>
-                        <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">6</span>
+                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         16
                     </div>
                     <div class="entry">
-                        <span class="value">9</span>
-                        <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <span class="value">12</span>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         17
                     </div>
                     <div class="entry">
-                        <span class="value">10</span>
+                        <span class="value">12</span>
                         <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         18
                     </div>
                     <div class="entry">
-                        <span class="value">4</span>
-                        <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">5</span>
+                        <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         19
                     </div>
                     <div class="entry">
-                        <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         20
                     </div>
                     <div class="entry">
                         <span class="value">4</span>
-                        <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         21
                     </div>
                     <div class="entry">
-                        <span class="value">1</span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">2</span>
+                        <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         22
                     </div>
                     <div class="entry">
@@ -761,38 +774,38 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 7.8125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">34</span>
+                            <span class="value">32</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
-                            <span class="value">9</span>
-                            <div class="bar" style="height: 13.23529411764706px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">22</span>
+                            <div class="bar" style="height: 34.375px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.4705882352941175px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.5625px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 2.941176470588235px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -800,6 +813,16 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">Python</span>
+                            <div class="bar" style="width: 74.15395156402352%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">93%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">GCC Machine Description</span>
+                            <div class="bar" style="width: 5.846048435976493%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">7%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -842,7 +865,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.70
+                            Average per day at ~3.73
                         </div>
                     </section>
                 </div>
@@ -2797,7 +2820,12 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.775510204081632 0,5.775510204081632 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.775510204081632 1.7,6.775510204081632 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
+                            <g transform="translate(-3.4, 5.673469387755102)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.326530612244898 0,3.326530612244898 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.326530612244898 1.7,4.326530612244898 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -2819,11 +2847,59 @@
                             <section class="repository">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
+                                        <span>GlistenSTAR/MERN_Web_automation</span>
+                                        <span>starred 9 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">
+                                </div>
+                                <div class="field infos">
+                                    <div class="language">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                        </svg>
+                                        JavaScript
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        1
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        0
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        0
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        1
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/clipboard-health-fullstack-test</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Clipboard health full-stack developer test project built with nextjs and tailwindcss.</div>
@@ -2870,7 +2946,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/vue-interactive-paycard</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Credit card form with smooth and sweet micro-interactions</div>
@@ -2923,7 +2999,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/guestwaiterreporting</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2971,7 +3047,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/Python_games</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3019,7 +3095,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/dackify</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3067,7 +3143,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/daclify_new</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3115,7 +3191,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/tel-input-angular</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3169,7 +3245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/PyFreeGame</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3223,7 +3299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GlistenSTAR/text-extract</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3263,54 +3339,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>GlistenSTAR/playgoldmand-frontend-beta</span>
-                                        <span>starred Dec 17 2021</span>
-                                    </div>
-                                </div>
-                                <div class="field description">
-                                </div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        JavaScript
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        2
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        0
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        0
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        1
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3328,13 +3356,8 @@
                             <div class="entry">
                                 <span class="value">119</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                5
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 6
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3368,33 +3391,38 @@
                             </div>
                             <div class="entry">
                                 <span class="value">123</span>
-                                <div class="bar" style="height: 19.772727272727273px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 13
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 19.772727272727273px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 14
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 19.772727272727273px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 15
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 19.772727272727273px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
                                 <span class="value">130</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 46.041666666666664px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 17
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">131</span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 18
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                19
                             </div>
                         </div>
                     </section>
@@ -3404,13 +3432,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                5
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 6
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3468,9 +3491,14 @@
                                 17
                             </div>
                             <div class="entry">
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                18
+                            </div>
+                            <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                18
+                                19
                             </div>
                         </div>
                     </section>
@@ -3513,12 +3541,10 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    16 followed
+                    14 followed
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIABwAHAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APY5f+Czf7QXiu68O658Hf2ftZ03wRqvjHTPBt5eavq/xj1T7Adc1rH9jHW9A+JH/CL6AT4h49h044r7jEeKuWVoS9rQw9WU5xqTlUw8ZylVjBUY1JN5T71T2P7pT3VP92rQ909Wt4BrD4OT5mlpazla3tk2v+R1LS8r+up/TDoGs6rb6XBpfjBdMuSLIfbdK+26x4k006nknXMnXwcgZOPTJ6c1+fZ3x9TxdRumo3tFXSs2oqlyp3wUNI2lZbK7tvr4vC/h1h8uxkoTm9GntUerpYht6Y6ortTV/wCrVvEnhPwrPoGnafoXw70T+z9T8YaZ/bB8J3es+CTp/wD1G/7c8Af8Ijk/n0P48lbi3FZrFOKbS/mlCT+ytZSw9OT/AIW7bfn3+kXCeGrcS0JZqvbU37W7XPS/5l9k19XxF9JKn0fw66OR/n2/tG/t7fts/D748/GP4feFf2tvjtoPhvwF8UfiH4N0XTdE8e+M4NPhsPDnjPXdLiMUfYsbdgx9h6V4k+PcXg5PD8r/AHdvtUvtr2nXBT/m/mfy2P8AUbhTwY8HMwyDAYzE5M5V631rnl/aPFKv7PG4mlHSGaQgrQhFaRW2t3dv+n2++Nnwk8B3/wAF/DfgHwhbeLPA2v8AjDwxZWY+GWijU/A3hL+wda8P/wDE6z/j4P8A5V+J05YiU7c1mvKHZn885hhpzy2elmuXtp+/h/eV72P1vXxj8Frz4023g2f4p21t8V/GXw30zW9G+Dt34k0X/QPC+ha14gJ8a6H4Gx/zNn5/8SDNfpOSZDPHQTlre/ZbOr2rQ/k/rr/KuP8ArFDMaii/5LaQ/wCfEO9+5sfs+aR8TvBeiW+k/Fv4meEviR4wN3ql7d6t4T8I/wDCE6Z/ZQ1sHQ/+JH/wkni3/iof+Ec47Z/GvvsvjhMGuXl1WyvU/vv+8tOb+umWJq4pS+t5Uvb1Ypq16dK6ko0nriFy/C6n2elt3Fn8/H/BUT/glP8AAjxP+1ZrfxC8JaHr/hd/ih4a034geLLfQLzVjpmq+Nda1nxFb6/4gh+2F5t2svYW91JztZjuAUsQOXF5NgsViKuI5LOs4yetXVqEYN39pC9+XT3VZWWtrn6tkP0jvGHJMqwuV4TJlOhhFVhTksw4Wi3GVapUXN7TI603OKmoylKo3JxulCLUI+//ABk+EPiPwhbQf8K50rTfCXh+21nU9a0a78J2Z/0DVNdzn+3NEA/4p/HHpX8zzweOdVYmMbxjfrRW8VT6yvv/AHf8z+hcozXL8NSlQnUte32a+tpVZ9Kcv5l1/wAjufBv7OvxM+I/xW+D3xoB0PwR4p8L/BP/AIQu9+O9p4c8Gnxzf6X/AGzr/wDbngvRNc8QHxf4oHBBxx1r9GynivHKjHDqPw360us6k+uG1/8AAv8AI/KuMMBlcq0q7qrpdctdte5hYK9p3V917qv+J+t/gPw5ong/SgDBag2tmb288R3d4Px/tzWxxnoP1r9G4Ewf16tGG17267Rxjf2ofyd/+D/PPFOY/V/9pfwx6+v1en/JJ7y/l/zP5/8A9un/AIL2/Bz4S/Hi++HHwvt5PijpvhHQbTSPEfijQtK0bXdIPjCDWNdOsafY6l/y3gs4G08j+60zetf03hvD6pVowqctubm0uuk5LX/bVrprpbpru/yCt4tYWhUlScrctvs1OsVL/oWvv3P0F0OA+P8A9p79lLwj4kuLm48MRXnxq8c3mhQy+Tp2seIvBvw5Fp4Zu9Xh2ubtdIh8Q6oLVFaIqZgWdguD/J2QYWhiMqlKrDnfu6804/8AMTWX2ZRW0V9x/TXFuOxWFzKCoVfZp81/cpy2oYa3xwl/M/v9D4d/4K//ALV/xq/Z70q8ufhL4jg8J3AnXw2k1nZIXi0q6/4RwTQxkyAKxzPhsED7Vc/Kd67K4Hy3BYjNJxrUeePu6e0qx/5h8W941IveK+4/NfErO80oZdCVLFcrXNr7HDy3r4BfapPu/wCrH622Mtz4w/YK8UT6vd3a3niL9l3U9V1W+sZ3s7ye9uvhl+9kE0Z+UHsCrEepr2vC+clioNP+bov+feYeRwcaK+Q1pPf93r/3OYVemx/ET48/Zv8AhLHrxiTw8wSOztkUfaW+6PMxnK9ef/rV/duX1qn1Sj7y/wCXn2Yv/l7P+6f5mZtmGMjmGIUa7S/daKNP/nxS/uH/2Q==" width="28" height="28" alt="" />
@@ -3559,6 +3585,90 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <span class="sha">#db10090</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 Jan 2022, 17:39:24</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#533774b</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 Jan 2022, 17:34:17</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#31ceaf5</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 Jan 2022, 17:01:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#68d2a28</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">18 Jan 2022, 16:56:28</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <span class="sha">#49f90dc</span>
                                         <span class="message">Update README.md</span>
                                     </div>
@@ -3566,96 +3676,12 @@
                                 <div class="timestamp">17 Jan 2022, 19:18:00</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#a322b50</span>
-                                        <span class="message">Update metric.yml</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2022, 19:01:49</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#9452567</span>
-                                        <span class="message">Update README.md</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2022, 19:00:38</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#017e625</span>
-                                        <span class="message">Create metric.yml</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2022, 18:55:34</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GlistenSTAR/GlistenSTAR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#6dd8893</span>
-                                        <span class="message">Update README.md</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Jan 2022, 18:45:30</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2022, 01:23:32 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 01:20:15 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
