@@ -23,7 +23,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 	/>
 </p>
 
-
+<!-- 
 <p align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Script">
@@ -37,7 +37,7 @@ My team, **NK** consist several countries's and so we use English for our commun
     <img src="https://img.shields.io/badge/-Postgres-181717?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+</p> -->
 
 <!-- (Most used languages by number of commits)
 <p align="center">
@@ -45,8 +45,8 @@ My team, **NK** consist several countries's and so we use English for our commun
 </p> -->
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
 </div>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
