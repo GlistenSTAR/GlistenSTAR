@@ -49,10 +49,6 @@ My team, **NK** consist several countries's and so we use English for our commun
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
 </div>
 
-<p align="center">
-   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlistenSTAR&layout=compact&custom_title=Most used languages by GlistenSTAR&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-</p>
-
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 <h1 style="font-size:42px" align="center">Contact me</h1>
