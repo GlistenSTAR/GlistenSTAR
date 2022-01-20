@@ -9,6 +9,8 @@
 I am a web developer. I have 10+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with Angular, Vue, ❤️React❤️. Particularly React is my ❤️ framework and also I have rich experenice on React Framework(MERN).
 Including framwork that said above, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. 
 
+I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
+
 I have a team. I am charge of P.M.
 My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition.
 
