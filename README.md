@@ -11,8 +11,8 @@ Including framwork that said above, I have done 30 web site with Laravel, MERN, 
 
 I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
 
-I have a team. I am charge of P.M.
-My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition.
+<!-- I have a team. I am charge of P.M.
+My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition. -->
 
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
 
