@@ -44,10 +44,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 	<a href="https://profile.codersrank.io/user/GlistenSTAR#Tech%15Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GlistenSTAR&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,HTML,JSON,Java,JavaScript,PHP,Python,SCSS,SQL,Angular,Blade,React,TypeScript,Vue&show-other-skills=true&bg=white"></a>
 </p> -->
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
-</div>
+
 <br/>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
@@ -68,6 +65,10 @@ My team, **NK** consist several countries's and so we use English for our commun
 </div> -->
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
+</div>
 ![](https://hit.yhype.me/github/profile?user_id=75786284)
 
 <br>
