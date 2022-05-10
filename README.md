@@ -55,7 +55,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@GlistenSTAR)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GlistenSTAR#7384)
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226) -->
-![Profile views counter](https://hit.yhype.me/github/profile?user_id=75786284&&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=75786284)
 <br>
 
 
