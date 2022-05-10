@@ -6,7 +6,7 @@
  
 #### :heart: I'm passionate about:
 
-I am a web developer. I have 10+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with Angular, Vue, ❤️React❤️. Particularly React is my ❤️ framework and also I have rich experenice on React Framework(MERN).
+I am a web developer. I have 10+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with ❤️Svelte❤️, Angular, Vue, ❤️React❤️. Particularly React, Svelte is my ❤️ framework and also I have rich experenice on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
 Including framwork that said above, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. 
 
 I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
@@ -63,9 +63,9 @@ My team, **NK** consist several countries's and so we use English for our commun
 <br> 
 
 
-<div align="center">
+<!-- <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=GlistenSTAR&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
-</div>
+</div> -->
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
 ![](https://hit.yhype.me/github/profile?user_id=75786284)
