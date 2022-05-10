@@ -66,7 +66,6 @@ My team, **NK** consist several countries's and so we use English for our commun
    <img src="https://github-profile-trophy.vercel.app/?username=GlistenSTAR&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div> -->
 
-
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&hide_border=true&theme=dark"/>
