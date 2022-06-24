@@ -17,11 +17,11 @@ My team, **NK** consist several countries's and so we use English for our commun
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
 
 #### About Me
-<!-- <p align="center">
+<p align="center">
 	<img
 		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
 	/>
-</p> -->
+</p>
 
 <!-- 
 <p align="center">
