@@ -50,6 +50,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wVQ5IjQ9qgat)
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@GlistenSTAR)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GlistenSTAR#7384)
+[![image](https://img.shields.io/badge/Showwcase-3F3F3F?&style=for-the-badge&logo=showwcase&logoColor=white)](https://showwcase.com/glistenstar)
 
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226) -->
 
