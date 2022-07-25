@@ -1,23 +1,30 @@
 <!-- #: Senior Web and mobile developer. -->
 
+<h1 style="font-size:42px">About me</h1>
+
 #### :heart: I'm passionate about:
 
+<table><tr><td valign="top" width="60%" style="border:1px solid red;">
 I am a web developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with ❤️Svelte❤️, Angular, Vue, ❤️React❤️. Particularly React, Svelte is my ❤️ framework and also I have rich experenice on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
 Including framwork that said above, I have done 60 web site with Laravel, MERN, SvelteKit, Vite, MEAN, Nuxt, Next. 
 
-I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
+I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.	
 
 <!-- I have a team. I am charge of P.M.
 My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition. -->
+</td>
+
+<td valign="center" width="40%">
+<div align="center" style="justify-content:"center">
+<img
+		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
+	/>
+</div> 
+</td></tr></table>  
 
 <!-- <h1 align="center">Run! Danil! Run!!!!<h1><br/> -->
 
-#### About Me
-<p align="center">
-	<img
-		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
-	/>
-</p>
+
 
 <!-- 
 <p align="center">
@@ -40,7 +47,6 @@ My team, **NK** consist several countries's and so we use English for our commun
 	<a href="https://profile.codersrank.io/user/GlistenSTAR#Tech%15Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GlistenSTAR&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,HTML,JSON,Java,JavaScript,PHP,Python,SCSS,SQL,Angular,Blade,React,TypeScript,Vue&show-other-skills=true&bg=white"></a>
 </p> -->
 
-![](./profile-3d-contrib/profile-night-green.svg)
 
 <h1 style="font-size:42px">Contact me</h1>
 
@@ -54,18 +60,18 @@ My team, **NK** consist several countries's and so we use English for our commun
 
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226) -->
 
-![](https://hit.yhype.me/github/profile?user_id=75786284)
+![](./profile-3d-contrib/profile-night-green.svg)
 
-
+<img src="https://komarev.com/ghpvc/?username=GlistenSTAR&&style=flat-square" align="right" />
 
 <!-- <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=GlistenSTAR&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
-</div>
+</div>  -->
 
 <!-- ## More in detail
 <p align="center">
