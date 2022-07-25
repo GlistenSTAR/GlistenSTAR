@@ -4,7 +4,7 @@
 
 #### :heart: I'm passionate about:
 
-<table><tr><td valign="top" width="60%" style="border:1px solid red;">
+<table><tr><td valign="top" width="55%" style="border:1px solid red;">
 I am a web developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with ❤️Svelte❤️, Angular, Vue, ❤️React❤️. Particularly React, Svelte is my ❤️ framework and also I have rich experenice on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
 Including framwork that said above, I have done 60 web site with Laravel, MERN, SvelteKit, Vite, MEAN, Nuxt, Next. 
 
@@ -14,7 +14,7 @@ I have also strong technical understanding of various machine learning algorithm
 My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition. -->
 </td>
 
-<td valign="center" width="40%">
+<td valign="center" width="45%">
 <div align="center" style="justify-content:"center">
 <img
 		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
