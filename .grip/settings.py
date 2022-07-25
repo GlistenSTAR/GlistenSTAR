@@ -1,0 +1,1 @@
+STYLE_URLS = ["https://raw.githubusercontent.com/GlistenSTAR/GlistenSTAR/main/1.css"]
