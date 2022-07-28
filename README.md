@@ -5,10 +5,14 @@
 #### :heart: I'm passionate about:
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
-I am a web developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with ❤️Svelte❤️, Angular, Vue, ❤️React❤️. Particularly React, Svelte is my ❤️ framework and also I have rich experenice on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
-Including framwork that said above, I have done 60 web site with Laravel, MERN, SvelteKit, Vite, MEAN, Nuxt, Next. 
+I am a web and mobile developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. 
 
-I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.	
+As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with ❤️Svelte❤️, Angular, Vue, ❤️React❤️. Particularly React, Svelte is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
+Including framwork that said above, I have done 80 web site with Laravel, MERN, SvelteKit, Vite, MEVN, Nuxt, Next. 
+
+I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
+
+Recently I am studying about web automation. For this, I am working with JS Puppeteer and Python Selenium, I have achieve to sucess several project using this technology.
 
 <!-- I have a team. I am charge of P.M.
 My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition. -->
@@ -16,9 +20,12 @@ My team, **NK** consist several countries's and so we use English for our commun
 
 <td valign="center" width="45%">
 <div align="center" style="justify-content:"center">
-<img
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/>
+	<br/>
+	<img
 		src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em"
 	/>
+	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
 </div> 
 </td></tr></table>  
 
