@@ -5,10 +5,12 @@
 #### :heart: I'm passionate about:
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
-I am a web and mobile developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. 
+I am a Senior web and mobile developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. 
 
 As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with ❤️Svelte❤️, Angular, Vue, ❤️React❤️. Particularly React, Svelte is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
-Including framwork that said above, I have done 80 web site with Laravel, MERN, SvelteKit, Vite, MEVN, Nuxt, Next. 
+Including framwork that said above, I have done 80 web site with Laravel, MERN, SvelteKit, Vite, MEVN, Nuxt, Next.
+
+As mobile development, I have good experience React Native and flutter.
 
 I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
 
