@@ -85,4 +85,4 @@ My team, **NK** consist several countries's and so we use English for our commun
 	<img width="625em" src="https://github.com/GlistenSTAR/GlistenSTAR/blob/main/github-metrics.svg" />
 </p> -->
 
-
+<p align="center"><a href="https://ko-fi.com/glistenstar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="glistenstar" /></a></p><br><br>
