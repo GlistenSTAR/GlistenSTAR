@@ -24,7 +24,9 @@ My team, **NK** consist several countries's and so we use English for our commun
 <div align="center" style="justify-content:"center">
 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/>
 	<br/>
-	<img src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" width="500em" />
+	<img height="160em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=glistenstar&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" width="500em" 
+/>
+	<!-- <img src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23005;--border-radius:20px" /> -->
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
 </div> 
 </td></tr></table>  
