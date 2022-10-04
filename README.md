@@ -4,16 +4,16 @@
 #### :heart: I'm passionate about:
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
-I am a Senior web and mobile developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. 
+I am a Senior web and blockchain developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Svelte. 
 
-As a full stack developer, my main programming language is Javascript, PHP, Python. I have good experience with ❤️Svelte❤️, Angular, Vue, ❤️React❤️. Particularly React, Svelte is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
-Including framwork that said above, I have done 80 web site with Laravel, MERN, SvelteKit, Vite, MEVN, Nuxt, Next.
+As a full stack developer, my main programming language is JS/TS, PHP, Python. I have good experience with ❤️Svelte❤️, ❤️React❤️, Angular, Vue. Particularly React, Svelte is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
+Including framwork that said above, I have done 80 web site with MERN, SvelteKit, Vite, MEVN, Nuxt, Next, Laravel, Django.
 
 As mobile development, I have good experience React Native and flutter.
 
-I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning.
+I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning, web automation using python.
 
-Recently I am studying about web automation. For this, I am working with JS Puppeteer and Python Selenium, I have achieve to sucess several project using this technology.
+For web automation, I am working with JS Puppeteer and Python Selenium, I have achieve to sucess several project using this technology.
 
 <!-- I have a team. I am charge of P.M.
 My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition. -->
