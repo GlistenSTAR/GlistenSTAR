@@ -65,7 +65,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226) -->
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 <img src="https://komarev.com/ghpvc/?username=GlistenSTAR&&style=flat-square" align="right" />
 
