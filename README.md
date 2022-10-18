@@ -5,9 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=GlistenSTAR&&style=flat-square" align="right" /><br/>
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
-I am a Senior web and blockchain developer. I have 9+ years of experience writing web apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Svelte. 
+I am a Senior web, mobile and blockchain developer. I have 9+ years of experience writing web and mobile apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React & Svelte & Qwik. 
 
-As a full stack developer, my main programming language is JS/TS, PHP, Python. I have good experience with ❤️Svelte❤️, ❤️React❤️, Angular, Vue. Particularly React, Svelte is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
+As a full stack developer, my main programming language is JS/TS, PHP, Python. I have good experience with ❤️Svelte, React, Qwik❤️, Angular, Vue. Particularly React, Svelte, Qwik is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
 Including framwork that said above, I have done 80 web site with MERN, SvelteKit, Vite, MEVN, Nuxt, Next, Laravel, Django.
 
 As mobile development, I have good experience React Native and flutter.
@@ -16,8 +16,6 @@ I have also strong technical understanding of various machine learning algorithm
 
 For web automation, I am working with JS Puppeteer and Python Selenium, I have achieve to sucess several project using this technology.
 
-<!-- I have a team. I am charge of P.M.
-My team, **NK** consist several countries's and so we use English for our communication. Our team is still progressive. But It started of competition. -->
 </td>
 
 <td valign="center" width="45%">
