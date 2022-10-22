@@ -48,7 +48,7 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226) -->
 
-<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
+
 
 
 											   
@@ -58,3 +58,4 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 	<img width="625em" src="https://github.com/GlistenSTAR/GlistenSTAR/blob/main/github-metrics.svg" />
 </p> -->
 													
+![](./profile-3d-contrib/profile-night-green.svg) 
