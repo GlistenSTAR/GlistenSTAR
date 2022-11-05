@@ -1,6 +1,6 @@
 <!-- #: Senior Web and mobile developer. -->
  <h1 style="font-size:64px" align="center">Inhale confidence, exhale doubt.</h1>
-<h1 style="font-size:42px">🧐About me</h1>
+<!-- <h1 style="font-size:42px">🧐About me</h1> -->
 
 #### :heart: I'm passionate about:
 <img src="https://komarev.com/ghpvc/?username=GlistenSTAR&&style=flat-square" align="right" /><br/>
