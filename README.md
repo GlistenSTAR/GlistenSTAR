@@ -29,7 +29,7 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 
 </td></tr></table>  
 
-<!-- <h1 align="center"><a href="https://profile.codersrank.io/user/glistenstar" target="_blank"><img src="./ScreenShot.png" height="270" style="border-radius: 20px;align-item:center"/></a></h1> -->
+<h1 align="center"><a href="https://profile.codersrank.io/user/glistenstar" target="_blank"><img src="./ScreenShot.png" height="270" style="border-radius: 20px;align-item:center"/></a></h1>
 <!-- (Most used languages by number of commits)
 <p align="center">
 	<a href="https://profile.codersrank.io/user/GlistenSTAR#Tech%15Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GlistenSTAR&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,HTML,JSON,Java,JavaScript,PHP,Python,SCSS,SQL,Angular,Blade,React,TypeScript,Vue&show-other-skills=true&bg=white"></a>
