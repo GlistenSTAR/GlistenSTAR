@@ -3,8 +3,8 @@
 <h1 style="font-size:42px">🧐About me</h1>
 
 <!-- #### :heart: I'm passionate about: -->
-<img src="https://komarev.com/ghpvc/?username=GlistenSTAR&&style=flat-square" align="right" /><br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=33B1E9&width=600&lines=Full+Stack+Web+and+Mobile+Developer;Top+Rated+Svelte+Developer;MERN%2C+MEVN%2C+MEAN+Stack+Developer;Django%2C+Flask%2C+FastAPI+Developer;PHP%2C+JS%2FTS%2C+PYTHON%2C+GO%2C+RUST+Developer)](https://git.io/typing-svg)
+<!-- <img src="https://komarev.com/ghpvc/?username=GlistenSTAR&&style=flat-square" align="right" /><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=33B1E9&width=600&lines=Full+Stack+Web+and+Mobile+Developer;Top+Rated+Svelte+Developer;MERN%2C+MEVN%2C+MEAN+Stack+Developer;Django%2C+Flask%2C+FastAPI+Developer;PHP%2C+JS%2FTS%2C+PYTHON%2C+GO%2C+RUST+Developer)](https://git.io/typing-svg) -->
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
 I am a Senior web, mobile and blockchain developer. I have 9+ years of experience writing web and mobile apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React & Svelte & Qwik. 
