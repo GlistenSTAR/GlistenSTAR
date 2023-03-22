@@ -44,7 +44,7 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glistenstar00@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/wVQ5IjQ9qgat)
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@GlistenSTAR)
-[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GlistenSTAR#8731)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/! Gli$te|\| !#8731)
 [![image](https://img.shields.io/badge/Showwcase-3F3F3F?&style=for-the-badge&logo=showwcase&logoColor=white)](https://showwcase.com/glistenstar)
 <!-- <a href="https://ko-fi.com/glistenstar"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" align="right" v-align="top" height="50" width="180" alt="glistenstar" /></a> -->
 
