@@ -9,10 +9,10 @@
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
 I am a Senior web, mobile and blockchain developer. I have 9+ years of experience writing web and mobile apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React & Svelte & Qwik. 
 
-As a full stack developer, my main programming language is JS/TS, PHP, Python. I have good experience with ❤️Svelte, React, Qwik❤️, Angular, Vue. Particularly React, Svelte, Qwik is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
+As a full stack developer, my main programming language is JS/TS, Rust, Python. I have good experience with ❤️Svelte, React, Qwik❤️, Angular, Vue. Particularly React, Svelte, Qwik is my ❤️ framework and also I have rich experience on React Framework(MERN), Svelte Framework(SvelteKit, Vite).
 Including framwork that said above, I have done 80 web site with MERN, SvelteKit, Vite, MEVN, Nuxt, Next, Laravel, Django.
 
-As mobile development, I have good experience React Native and flutter.
+As mobile development, I have good experience React Native and flutter as hybrid app.
 
 I have also strong technical understanding of various machine learning algorithms, including Neural networks and Deep learning, web automation using python.
 
