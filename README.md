@@ -22,7 +22,7 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 
 <td valign="center" width="45%">
 <div align="center" style="justify-content:"center">
-<!-- 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/> -->
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/>
  	<!-- <img height="160em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23EF8D21;--border-radius:10px"/> -->
 	<img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=glistenstar&theme=gruvbox&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" style="max-width: 100%;">
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
@@ -63,4 +63,4 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 ![](./profile-3d-contrib/profile-night-green.svg)  													
 -->
 													
-<h1 align="center"><a href="https://profile.codersrank.io/user/glistenstar" target="_blank"><img src="./ScreenShot.png" height="270" style="border-radius: 20px;align-item:center"/></a></h1>
+<!-- <h1 align="center"><a href="https://profile.codersrank.io/user/glistenstar" target="_blank"><img src="./ScreenShot.png" height="270" style="border-radius: 20px;align-item:center"/></a></h1> -->
