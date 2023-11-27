@@ -50,7 +50,7 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 
 <!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226) -->
 
-
+![](https://hit.yhype.me/github/profile?user_id=75786284)
 
 
 											   
