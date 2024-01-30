@@ -37,7 +37,7 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 	<a href="https://profile.codersrank.io/user/GlistenSTAR#Tech%15Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GlistenSTAR&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,HTML,JSON,Java,JavaScript,PHP,Python,SCSS,SQL,Angular,Blade,React,TypeScript,Vue&show-other-skills=true&bg=white"></a>
 </p> -->
 
-
+donate me: 0x35ce4eb3df9c56b9506b9439e50c7aa33b29a274 (bep-20 USDT)
 <h1 style="font-size:42px">🤙Contact me</h1>
 <br/>
 			  
