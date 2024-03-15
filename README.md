@@ -7,16 +7,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=33B1E9&width=600&lines=Full+Stack+Web+and+Mobile+Developer;Top+Rated+Svelte+Developer;MERN%2C+MEVN%2C+MEAN+Stack+Developer;Django%2C+Flask%2C+FastAPI+Developer;PHP%2C+JS%2FTS%2C+PYTHON%2C+GO%2C+RUST+Developer)](https://git.io/typing-svg) -->
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
-I am a Senior web, mobile, and blockchain developer. I have 9+ years of experience writing web and mobile apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs and significant experience with popular frameworks and libraries like React & Svelte & Qwik. 
+With over 9 years of dedicated experience in web, mobile, and blockchain development, I've crafted a diverse website ranging from consumer productivity applications to sophisticated financial trading platforms, showcasing my adaptability and expertise across diverse sectors.
 
-As a full-stack developer, my main programming languages are JS/TS, Rust, and Python. I have good experience with ❤️Svelte, React, Qwik❤️, Angular, and Vue. Particularly React, Svelte, and Qwik are my ❤️ frameworks and also I have rich experience with React Framework(MERN), and Svelte Framework(SvelteKit, Sapper).
-Including the framework mentioned above, I have done 80 websites with MERN, SvelteKit, Vite, MEVN, Nuxt, Next, Laravel, and Django.
+As a seasoned full-stack developer proficient in JavaScript/TypeScript, PHP, Rust, and Python, I bring a comprehensive skill set to every project, seamlessly integrating cutting-edge technologies and frameworks such as React, Svelte, and Qwik to deliver innovative solutions tailored to each client's unique needs.
 
-As a mobile developer, I have good experience with React Native and Flutter as hybrid apps.
+My passion lies in creating captivating user experiences, and I've honed my craft with a deep understanding of front-end JavaScript and browser APIs, coupled with extensive experience in frameworks like React, Svelte, and Qwik, which I consider not just tools but my creative companions in bringing ideas to life.
 
-I also have a strong technical understanding of various machine learning algorithms, including Neural networks Deep learning, and web automation using Python.
+For my career, I've had the privilege of developing 80 websites using a variety of frameworks and platforms including MERN, SvelteKit, Vite, MEVN, Nuxt, Next, Laravel, and Django, each project a testament to my commitment to excellence and mastery of diverse tech stacks.
 
-For web automation, I am working with JS Puppeteer and Python Selenium, I have achieved success in several projects using this technology.
+With a keen eye for mobile development, I've seamlessly navigated the realms of React Native and Flutter, crafting hybrid applications that combine the best of both worlds to deliver seamless user experiences across iOS and Android platforms.
+
+Beyond traditional development paradigms, I've delved into the realm of machine learning, exploring intricate algorithms such as neural networks and deep learning to push the boundaries of what's possible in the digital landscape, all while leveraging Python to drive automation and efficiency in web processes through tools like Puppeteer and Selenium.
+
+Whether it's architecting robust back-end systems or crafting pixel-perfect front-end designs, I thrive on the challenge of bringing ideas to fruition, leveraging my expertise across multiple disciplines to deliver solutions that not only meet but exceed expectations, leaving a lasting impact on users and stakeholders alike.
+
+Let's collaborate and turn your vision into reality, making dreams come true one line of code at a time.
 
 </td>
 
