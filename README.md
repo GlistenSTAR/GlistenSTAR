@@ -39,7 +39,7 @@ For web automation, I am working with JS Puppeteer and Python Selenium, I have a
 <br/>
 <h1 style="font-size:42px">🍗Donate Me:</h1>
 ✔ 0x35ce4eb3df9c56b9506b9439e50c7aa33b29a274 (bep-20, erc-20 USDT)<br/>
-✔ TS3VYX4s7uP19YPfGsCgWsgiQBYNqTj2Ea (tron)
+✔ TS3VYX4s7uP19YPfGsCgWsgiQBYNqTj2Ea (trc20 USDT)
 <br/>
 
 <h1 style="font-size:42px">🤙Contact me</h1>
