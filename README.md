@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=33B1E9&width=600&lines=Full+Stack+Web+and+Mobile+Developer;Top+Rated+Svelte+Developer;MERN%2C+MEVN%2C+MEAN+Stack+Developer;Django%2C+Flask%2C+FastAPI+Developer;PHP%2C+JS%2FTS%2C+PYTHON%2C+GO%2C+RUST+Developer)](https://git.io/typing-svg) -->
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
-With over 9 years of dedicated experience in web, mobile, and blockchain development, I've crafted a diverse website ranging from consumer productivity applications to sophisticated financial trading platforms, showcasing my adaptability and expertise across diverse sectors.
+With over 9 years of dedicated experience in web, mobile, and blockchain development, I've crafted a diverse website ranging from consumer productivity applications to sophisticated financial trading platforms, showcasing my adaptability and expertise across diverse sectors.<br/>
 
 As a seasoned full-stack developer proficient in JavaScript/TypeScript, PHP, Rust, and Python, I bring a comprehensive skill set to every project, seamlessly integrating cutting-edge technologies and frameworks such as React, Svelte, and Qwik to deliver innovative solutions tailored to each client's unique needs.
 
