@@ -31,8 +31,15 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/>
 <!--  	<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23EF8D21;--border-radius:10px"/> -->
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
+	
 </div> 
-
+<br/>
+<h1 style="font-size:42px">🍗Donate Me:</h1>
+✔ 0x35ce4eb3df9c56b9506b9439e50c7aa33b29a274 <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(bep-20, erc-20 USDT)<br/>
+✔ TS3VYX4s7uP19YPfGsCgWsgiQBYNqTj2Ea <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(trc20 USDT)
+<br/>
 </td></tr></table>  
 
 
@@ -41,11 +48,7 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 	<a href="https://profile.codersrank.io/user/GlistenSTAR#Tech%15Skills"><img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GlistenSTAR&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,HTML,JSON,Java,JavaScript,PHP,Python,SCSS,SQL,Angular,Blade,React,TypeScript,Vue&show-other-skills=true&bg=white"></a>
 </p> -->
 
-<br/>
-<h1 style="font-size:42px">🍗Donate Me:</h1>
-✔ 0x35ce4eb3df9c56b9506b9439e50c7aa33b29a274 (bep-20, erc-20 USDT)<br/>
-✔ TS3VYX4s7uP19YPfGsCgWsgiQBYNqTj2Ea (trc20 USDT)
-<br/>
+
 
 <h1 style="font-size:42px">🤙Contact me</h1>
 <br/>
