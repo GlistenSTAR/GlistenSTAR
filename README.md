@@ -1,10 +1,7 @@
-<!-- #: Senior Web and mobile developer. -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=33B1E9&width=600&lines=Full+Stack+Web+and+Mobile+Developer;Top+Rated+Svelte+Developer;MERN%2C+MEVN%2C+MEAN+Stack+Developer;Django%2C+Flask%2C+FastAPI+Developer;PHP%2C+JS%2FTS%2C+PYTHON%2C+GO%2C+RUST+Developer)](https://git.io/typing-svg) -->
+
 <h1 style="font-size:64px" align="center">Inhale confidence, exhale doubt.</h1>
 <h1 style="font-size:42px">🧐About me</h1>
-
-<!-- #### :heart: I'm passionate about: -->
-<!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=33B1E9&width=600&lines=Full+Stack+Web+and+Mobile+Developer;Top+Rated+Svelte+Developer;MERN%2C+MEVN%2C+MEAN+Stack+Developer;Django%2C+Flask%2C+FastAPI+Developer;PHP%2C+JS%2FTS%2C+PYTHON%2C+GO%2C+RUST+Developer)](https://git.io/typing-svg) -->
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
 With over 8 years of dedicated experience in web, mobile, and blockchain development, I've crafted a diverse website ranging from consumer productivity applications to sophisticated financial trading platforms, showcasing my adaptability and expertise across diverse sectors.<br/><br/>
@@ -12,8 +9,6 @@ With over 8 years of dedicated experience in web, mobile, and blockchain develop
 As a seasoned full-stack developer proficient in JavaScript/TypeScript, PHP, Rust, and Python, I bring a comprehensive skill set to every project, seamlessly integrating cutting-edge technologies and frameworks such as React, Svelte, and Qwik to deliver innovative solutions tailored to each client's unique needs.
 
 My passion lies in creating captivating user experiences, and I've honed my craft with a deep understanding of front-end JavaScript and browser APIs, coupled with extensive experience in frameworks like React, Svelte, and Qwik, which I consider not just tools but my creative companions in bringing ideas to life.
-
-For my career, I've had the privilege of developing 80 websites using a variety of frameworks and platforms including MERN, SvelteKit, Vite, MEVN, Nuxt, Next, Laravel, and Django, each project a testament to my commitment to excellence and mastery of diverse tech stacks.
 
 With a keen eye for mobile development, I've seamlessly navigated the realms of React Native and Flutter, crafting hybrid applications that combine the best of both worlds to deliver seamless user experiences across iOS and Android platforms.
 
@@ -30,7 +25,7 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 	<h1 style="font-size:42px">😜 Glimpse</h1>
 <div align="center" style="justify-content:"center">
 	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/>
-<!--  	<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23EF8D21;--border-radius:10px"/> -->
+ 	<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23EF8D21;--border-radius:10px"/>
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
 	
 </div> 
@@ -72,6 +67,6 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 </p> -->
 
 	 
-![](./profile-3d-contrib/profile-night-green.svg)  													
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 <!-- <h1 align="center"><a href="https://profile.codersrank.io/user/glistenstar" target="_blank"><img src="./ScreenShot.png" height="270" style="border-radius: 20px;align-item:center"/></a></h1> -->
