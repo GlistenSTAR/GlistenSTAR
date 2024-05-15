@@ -35,12 +35,12 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 	
 </div> 
 <br/>
-<h1 style="font-size:42px">🍗Donate Me:</h1>
+<!-- <h1 style="font-size:42px">🍗Donate Me:</h1>
 ✔ 0x35ce4eb3df9c56b9506b9439e50c7aa33b29a274 <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(bep-20, erc-20 USDT)<br/>
 ✔ TS3VYX4s7uP19YPfGsCgWsgiQBYNqTj2Ea <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(trc20 USDT)
-<br/>
+<br/> -->
 </td></tr></table>  
 
 
