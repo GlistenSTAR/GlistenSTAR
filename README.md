@@ -28,7 +28,9 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 <!--  	<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23EF8D21;--border-radius:10px"/> -->
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
 	
-</div> 
+</div>
+<a href="https://ko-fi.com/glistenstar"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" align="right" v-align="top" height="50" width="180" alt="glistenstar" /></a>
+ 
 <br/>
 <!-- <h1 style="font-size:42px">🍗Donate Me:</h1>
 ✔ 0x35ce4eb3df9c56b9506b9439e50c7aa33b29a274 <br/>
@@ -55,10 +57,6 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@GlistenSTAR)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/903634601778491403)
 [![image](https://img.shields.io/badge/Showwcase-3F3F3F?&style=for-the-badge&logo=showwcase&logoColor=white)](https://showwcase.com/glistenstar)
-
-<!-- <a href="https://ko-fi.com/glistenstar"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" align="right" v-align="top" height="50" width="180" alt="glistenstar" /></a> -->
-<br/>
-<!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226) --->
 											   
 											   
 <!-- ## More in detail
