@@ -29,9 +29,15 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
 	
 </div>
-<a href="https://ko-fi.com/glistenstar"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" align="right" v-align="top" height="50" width="180" alt="glistenstar" /></a>
- 
+<p>
+	
 <br/>
+
+<br/>
+<a href="https://ko-fi.com/glistenstar"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" align="right" v-align="top" height="50" width="180" alt="glistenstar" /></a>	
+</p>
+
+ 
 <!-- <h1 style="font-size:42px">🍗Donate Me:</h1>
 ✔ 0x35ce4eb3df9c56b9506b9439e50c7aa33b29a274 <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(bep-20, erc-20 USDT)<br/>
