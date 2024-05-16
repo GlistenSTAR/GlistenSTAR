@@ -25,7 +25,7 @@ Let's collaborate and turn your vision into reality, making dreams come true one
 	<h1 style="font-size:42px">😜 Glimpse</h1>
 <div align="center" style="justify-content:"center">
 	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GlistenSTAR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/>
- 	<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23EF8D21;--border-radius:10px"/>
+<!--  	<img height="180em" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GlistenSTAR&badges=3&show-avatar=true&style=--header-bg-color:%23EF8D21;--border-radius:10px"/> -->
 	<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GlistenSTAR&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
 	
 </div> 
