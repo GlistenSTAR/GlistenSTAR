@@ -1,5 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=32&pause=1000&color=33B1E9&width=600&lines=Full+Stack+Web+and+Mobile+Developer;Top+Rated+Svelte+Developer;MERN%2C+MEVN%2C+MEAN+Stack+Developer;Django%2C+Flask%2C+FastAPI+Developer;PHP%2C+JS%2FTS%2C+PYTHON%2C+GO%2C+RUST+Developer)](https://git.io/typing-svg) -->
 
+
 <h1 style="font-size:64px" align="center">Inhale confidence, exhale doubt.</h1>
 <h1 style="font-size:42px">🧐About me</h1>
 
