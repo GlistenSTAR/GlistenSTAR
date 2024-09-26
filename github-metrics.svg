@@ -33,15 +33,15 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -470,14 +470,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 15 commits)</small>
+                    <small class="h-details">(computed from last 12 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.9 characters per line of code written</li>
+                        <li>Has approximately 35.4 characters per line of code written</li>
                         <li>Mostly pushes code around 05:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -576,8 +576,8 @@
                             17
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             18
                         </div>
                         <div class="entry">
@@ -617,28 +617,28 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -694,7 +694,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.61
+                            Average per day at ~2.60
                         </div>
                     </section>
                 </div>
@@ -2654,6 +2654,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2690,7 +2695,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        452
+                                        453
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3198,13 +3203,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                12
-                                <div class="bottom">Sep.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 13
+                                <div class="bottom">Sep.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3265,6 +3265,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                26
                             </div>
                         </div>
                     </section>
@@ -3274,13 +3279,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                12
-                                <div class="bottom">Sep.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 13
+                                <div class="bottom">Sep.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -3341,6 +3341,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                26
                             </div>
                         </div>
                     </section>
@@ -3365,7 +3370,7 @@
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFgklEQVR4nGPIO3eH6oiBGEXZx6/FrtkXvXxX2r6zueduk2voWTA6dyd587Gg0uk2LoVeIQ2uRf1BU1dFLd+ZeeRy3tnbJBsaOG1N7umbMQu2ewXX65unO7hX2LuV2LsWOXlW2LmUGFtnWEXWRi/fjctoBqyiegGFkQu3u/pXaxglaRglm9rmgRkgtopOtJSCj4yWv3Vmc/qB80QbevaOTXarsmaolkmKhlEyGtK3zHL0qg6I6AhK7IqYvh6rYxkwTYxbvNPWs0TbJFlFL07dMFHdIFHdIAHkRr04DUOQYzWMktXBDCOrLOeSSXlnbhMwNGnrcSuXQmdvkMdVdGNllAPVDZMkZD01DJOUdWOlFXwhxqkbJsmqBChrR6kZJJqEVIbN3ojsZAZUQ2+7ZvfomqXHpUxWM0gw0fG10/dQ0ooUl/EQl3ZR1YuVkPUWk3JW1AhTN0hUM0gQl3ETEbcXk3SyTm/F6dKcUzeU9aJlFAMNrbLVVLyur+m9vKRdU9FRUtZdScZeRMRaTMqFl89SUNhSSMRKRMJeRNxeUNjSJq0x98wtnIbGbzxsGV0jKectpxI4sSD7z821V7bPODa9LsbBX07SZlV9YXFguJWOi4eJp6WWq6CQpZCwlaCwpYisU/y6fTgNjVm9N2bpDkERW3Exmyf750xqrJjdWbu0v/HLmUUP1nSdWdj248rKuR21s9pqZlQXHJlczcFqwc5umbrzZN5Z3C7NPX0z9/RNQVFrOwv/z1dWXto2s6OudfXMCX9urv17C4R+3Vgzq7uxq77uxp45f26tNdT2EZLzzcVIVQxo6Slz1Y60+MxA9/Af19fUN8xs7pjr4Zt3/9Smv7fX/b297t7x1TNmrQgIyuvumPzn1tog9+jigtKsNTvwGZp75tbS/oYLsxvjghPenl22dNXekMgyMQnrq0e2Qgx9eW1veuEEcWnHDeu3/Lm9tjor9+yEikVddTknb+CO/dM3l5dkHE4O70xO+nNr7buHF3MrphVX9P+4vfXPzbUgdH9nRf20nLKJPx4f+3tr7cLSnJOp4UvT47OPXcGX+Muau44kh/b6Bfy4sOz53MpXa7r+3F7/9/a6b6cXfDs5/++tdb9vrX+zofvVyuZf11bNjQw7lRZeWFSLllkZ0AzNPHK5PK98qq/f2rayj9snfD4w7c+ttW/PLb2+a+aN3bPen1/299baT7unfNjev3NCzcxA/7K88szDl4gpUG7nnLyevmTj5SXtf26u+XNr7R+QA9f9ubX27+21f2+v+3NjzfUl7Rnz1+Seuk5cgXIOKSUsXL+zt/Lz4Zm/r6+GRNTva6s+H5yxt6cic+4qnBrP4TP0tufMjdyl05yjsxfnp+xqyt3ZmLMgL8U1OouzeLLblNWgwuksSYaevePcsZCpcyVLdC2/rPP62uwn04ufTC9eXZnFK+vMEl3N1LfOpW8ZZrLPw2No9onrHH65jFM2s3vmSEravj275PP+aZ/2TnlzeomklD27XwHj1C2cgcVZR68SbejZO0mbjnC5pjOVT2PqXhXaMGfLltVX9y+8un/h9j2bXPqXMfauZayexe6UlrD+ILElf/S8rSauFdKGqcwemUwV01i7VhbN2bzv/vP9D15Urt7L0rOGqW4+i0u6iIKPmXtFzIJtmCHLgMbPPX3LKqBa2bpI2aZEQiuKzTiCKamRs3ZO67ojUw5d5GhewJTWxmYQJirvo2RdpGJTYhfcQLg6iVqyw8C1SkY7Wtm2RMWmVN4oTVjem1MnTN6/UNw7l0M7RFDGXVY3XtmmRNmmRFoj0sytJmbFHgKGhnQvU7EtEZFyUbIqUrEthSAJ9Rh5o1R5wxQJ9VgVG5BlKral8ibZQqI2WvbloT0r0AwFABfzNWuWOKVOAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBQYI/8QALhAAAQMDAwIDBwUAAAAAAAAAAQIDBAAFEQYSIRMxQVGBBwgUImGRsSMzUmJx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAMF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAxEEEyExQfDx/9oADAMBAAIRAxEAPwBPaogpYetzSGlgOp38JwV5IHHnW5h6It90sVxm21U2LIjQVSSXW8tLCAcjPgeDQXtjmNztRtNRVALtsNttPT8FDk/mq1nVN3d0P8A0xJW6rqIdlJUTtjH9xGB2QSeSai3fETXynPZmr0fDF8sESYzFedcxscLTRI3Dg9vv60M8xAjSXxOWWnFrKgladhA7dvQ1tfdjmMW63T4EuUy2uS5vYacUAV/4PvTLs1r09IbluNdKWTJc6jjqGnjvzyAdvA/r4Uh6yVBECHyxVvE5FVpy8vyHHippbjhJUou8nNW1ue1HpO0S2S+y3bJqg3IbbIK1Ag8ZxnHrVvFWeKH1ioq04vPg8n81Gt8ODNG2g7ZGYI1GNuutneYfKGlOA4KuWwPmIz5UwtK6ss1ktKYzNmW4pZ6zikkgFSgPr5YpY3j9KHJUjgpZAH0wBUZ2sLrHkdJkx0tpSnA6I/iDT9bivAUTK0QNxIY+j7P/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAAuEAABAwIFAgUCBwAAAAAAAAABAgMEBREABhIhMRNBByJRcYEUIyQyYZGhorH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwQFBv/EABwRAAICAwEBAAAAAAAAAAAAAAECABEDBCESQf/aAAwDAQACEQMRAD8AhVOJ6Diih11LQKijgbc+/wAcYotHpUl6lNSHkMwaW4ryzH7j5Fhe2/B/fEzj1Bh1hyKzoQCk/TrUvSUKPKCe4552N8PviFmOqQ8vZabmONuwnon2kJSU6APLcb78Yqs4csFH2aLHuN5JvghTJcKHL8Q4dObfFSpaASXtxz633Fjbf9MVGks0aM5UW1WDQlrQ39zskJQf7JVjnDJdRTDr31zcl1l9QJbdRsQo+p9P8w7Q606GLLldTzEhXTHc3P8AJODGLKH4eVIybJYmRimT5cJwmM+psK/ML7K9x3w0Zlly8wUmnuLV+GpsYMp2sL6iTYYHUxppeWqg+W0dZlSdC7XIuoeuCdOrk1GWpcFSm3GJDidWtAKhseD2wzO9EOo6DE662hxk8Mxy/U2WFth+Kw4gN9LqBFzzzY8nt8YKPTYSXCGpHk7a298KDY0P6UkgX4wQDKHAFKvf3w/yLuGiOBQqf//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EACoQAAEDAwMDBAEFAAAAAAAAAAECAwQFERIAITEGE1EUI0FhkRUicoGx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxFBBCIxMv/aAAwDAQACEQMRAD8A50k0tTElbK02WDx40qofQE6qURyfHa7hywbbBsSByf8ANaVepbSa2jtostf7Hkg3CXAbHfwbX/Oqd0yzK6ahtvMU9189kyVEvYAI4IQj5WQDzpylQMmTLGtPzIvTaSikS+5KimVJCi2lqwKEm3J86d0+nPKjByQ5TkqcOaQ6ly+J4tYWtpM3XenK91JMm5MwG2VB2PGVYd5fGa18Dk7fnRmfT6jWZ8qSqO00Q6pGHplLtvfn+9agbHkMzs57exvSuo+nZFMRVIUKBHlg+4qakrQHLAm1tj87aOzHKhUKo48zVhOafUD3kggk/wAPrxqO0mc9FQptvHHLcKFwrnkcaR0aszW3XsXEntiybpG3GhU0rWxYblK+xrVCnUoP6B6d12Q8w1IgXKPVuEIRjYeOPj70NqkyrSZZVSp3ahIAbazeQgqCdsrKN99YNc6kqK2ZTZc9u+ATkqyR9b6KzqpMLqffXsgDnSGeFr45JyTP/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBwT/xAArEAABBAEDAwIFBQAAAAAAAAABAgMEEQUAEiEGEzEiQRQjYXGBFSQyUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//EAB0RAAEFAAMBAAAAAAAAAAAAAAEAAgMRIQQxQVH/2gAMAwEAAhEDEQA/AM862xOVEbHtMQQhDrZQXbtblmxYPvzpPExzCsDE+FCxMbkdtxwuWhYIJoIKRRFc8+4026nzstyetmE4EIjPFCSo9zZR8C/A410YYMzcaxDQ03GkRtxU4zdq3kj12Tf8AfzqpsuBtHbkZsagz4L36bHDOyu84G2LG9A2XZWBR4J0KPj4zrCHZCmFLWLAcd9SUjgBXHmgNPZuPjHpTu1+5S6lCe0NiBQAuvqBZ586nZmJlyHRKYxcdtmQlLiEtyEpFVXhRv20mWPAUOCWyQpN14iS0ovg9wfMtW83Z/r76uMRkITePfPZCFtBBL5rf6EX+fP48ahczBZhx4q2QQtZ5UTzxoUZxa2lNFatiyNwvzo1aCn3bSPq2lnrbBM9EIjMJfOSbUPnJQKFIr6WfOsuTOjpU4dqlhSib3bf8vS11sMpUlskD76XOOqCyBWkOmLu1CHjMhJLfV//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQMEBwb/xAApEAABAwMCBAYDAAAAAAAAAAABAgMEAAUREkEGEyFRIiMxMmFxBxWx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAQP/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDBCExEf/aAAwDAQACEQMRAD8AG082LHb6ZBOVtp2Pc/FCmHdrtc3GoMxqGw15SXNPVwjfG3pTTrr8hDS1vHmhOgkEY3qGAXo8YriTITTgJ1c7vnal1wejGr9DP0/Eljmhm7PsS4Tqx5qMa0nbtgbU45IaZIGW/ENftVvU9zcny+el9MV2OkjSptzqfsUc4wkBAUjrpHtJxWUwqxqWc9I4qjvS4cS3JWguqS046oDCcnGsDc4701crcm13pyHdUoLSlFxpxRICwdjj+VkGooUFoOlSVZBFbhxxCal8QqLxX4kpyArp7BVGdealonzmcv6CLkRbU624hktRpAUhpw5LWRsM/Z9fntSy5yFoZU3EYcSptJ1D6qnxDHTI/GM198qccjSmSyTgaOpT0x8KNZUmQ6gYSsgVzy6iXjCW06fUf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QAKRAAAQMDAwQBBAMAAAAAAAAAAQIDBAAFEQYhMRITUYFBBxQVYXGR8f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIDESExEhMi/9oADAMBAAIRAxEAPwBSYu90uUhhFpnLDgaKynqXjYfI/dWV364K06uY321utnCm3G8A7Z/XmlrS9luV+jS2oMxmHHZaC5Dru3nAzz5qHUNpagy/so8x6dfF4bLUNJDTQ22zjKvWKf2PepmBhqJrCK7FbEtPZfAwoNtnoHioPzP26UpkMOSVKHWl1lo9JSeKI/TRho2K8rxmSAQ4CyHCUdG2Pef6ofYkLat6WZSHWXWiUlDgUgj5490pdZS1fkZr94u8SEyt1bnXvgBvck0vQ74mVdozchhceGXEBTrgz6wKyKHd5y2g2t9SkJWVgHzTTpmU4/LHeCV8L3HzzQciOiOPnwzbrPdIn5pceDBjI7me440kdfONyPdGrjP0+3ICbk/DQ8EjAcIzj/c1V0/EZEZEwJw8thvOOOK5x+tE+QdZ4C8BMdAAH8qquRK9Q1XXM//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAAqEAABBAEDAwMDBQAAAAAAAAABAgMEBREABiEHEhMiMUFRYnEUM0Jhkf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABEQIh/9oADAMBAAIRAxEAPwDL9dDfsZ8aFDbLsmQ4llpA91LUcAf6dM9V0w3BtiO2LepZbfmkQyXH2lkl09vi4c4BHucAgA4WM8Eu27iVQW7FpA8YmRsqZWtHcEKxgLx7ZGcjPzjSB0YpZO8N3y5FpLdW33tuyHnZBT53S56WivnJcwofjJ+MHG6KIW/ulW5NsV711MrW4tR6VE/qmT2qUcBAAWSfrxnj5OM6NNLXXPcNlaPVsFSFppIiSGXmkFEaQ8PQtTXx2Jx40fPYkH+WiXTizpMm1lfKtLGNAgMrfmSXA000n3UonAGtQy9v2HS/Z8WnrzJEi0KYbjzIAbcdUseQkkj1qx42x7hCFkcq4y1CkPxpKHYrzjDyT6XGllKk/gjXSUF1ZyVqbk2Ex5tosOIS4+shKg82ARz9x0bTZI7bee2NxxdhsydzNWECvq2G40ZqxWhxxx5R/bZGAUthJyT9mPwOasZ9vYz0BufPlymxhQS88pYB+vJ/s6rtaSgH/9k=" width="28" height="28" alt="" />
@@ -3468,7 +3473,7 @@ Signed-off-by: Glisten STAR &lt;75786284+GlistenSTAR@users.noreply.github.com&gt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2024, 02:26:51 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 02:26:18 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
