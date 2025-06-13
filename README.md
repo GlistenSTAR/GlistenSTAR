@@ -5,7 +5,7 @@
 <h1 style="font-size:42px">🧐About me</h1>
 
 <table><tr><td valign="center" width="55%" style="border:1px solid red;">
-With over 8 years of dedicated experience in web, mobile, and blockchain development, I've crafted a diverse website ranging from consumer productivity applications to sophisticated financial trading platforms, showcasing my adaptability and expertise across diverse sectors.<br/><br/>
+With over 10 years of dedicated experience in web, mobile, and blockchain development, I've crafted a diverse website ranging from consumer productivity applications to sophisticated financial trading platforms, showcasing my adaptability and expertise across diverse sectors.<br/><br/>
 
 As a seasoned full-stack developer proficient in JavaScript/TypeScript, PHP, Rust, and Python, I bring a comprehensive skill set to every project, seamlessly integrating cutting-edge technologies and frameworks such as React, Svelte, and Qwik to deliver innovative solutions tailored to each client's unique needs.
 
